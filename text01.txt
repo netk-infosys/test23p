@@ -1,0 +1,7 @@
+Была такая же проблема в винде - сменил аккаунт на гитхабе, но при пуше гит упорно пытался законнектиться по старому логину. Вылечил вот так:
+git config --global credential.github.com.interactive always
+теперь пушим и вводим новые логин/пароль
+git config --global credential.github.com.interactive auto - возвращаем значение по умолчанию
+
+Подробнее настройки credential manager-а смотрим тут:
+https://github.com/Microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs/Configuration.md
