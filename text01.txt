@@ -8,3 +8,4 @@ https://github.com/Microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs
 
 
 PC 06
+Вход с помощью браузера
