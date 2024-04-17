@@ -5,3 +5,6 @@ git config --global credential.github.com.interactive auto - возвращае�
 
 Подробнее настройки credential manager-а смотрим тут:
 https://github.com/Microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs/Configuration.md
+
+
+PC 06
